@@ -1,4 +1,3 @@
-```markdown
 # Text Analyzer
 
 A simple text analysis tool written in **Python** and **Go** that counts words, sentences, and characters in a text file. It also identifies the most frequent words and generates a word frequency graph using **matplotlib** in Python.
@@ -95,7 +94,7 @@ A word frequency graph will be saved as `word_frequency.png` (Python only).
 
 ## File Structure
 
-```bash
+```
 text-analyzer/
 ├── src/                    # Source files
 │   ├── main.py             # Entry point of the Python script
@@ -133,5 +132,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - `matplotlib` for generating visualizations.
 - Python's built-in libraries for text processing.
 - Go for high-performance implementation.
-
-```
