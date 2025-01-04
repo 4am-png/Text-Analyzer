@@ -1,0 +1,3 @@
+This is a sample text file. It contains several sentences and a few words.
+The words should be counted, and the frequency of words should be analyzed.
+Let's see how many words, sentences, and characters are in this file!
