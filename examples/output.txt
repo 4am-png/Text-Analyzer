@@ -1,0 +1,31 @@
+Word count: 24
+Sentence count: 4
+Character count: 171
+
+Word Frequency:
+- the: 3
+- and: 2
+- is: 1
+- a: 2
+- sample: 1
+- text: 1
+- file: 1
+- it: 1
+- contains: 1
+- several: 1
+- sentences: 1
+- few: 1
+- words: 2
+- should: 1
+- be: 1
+- counted: 1
+- frequency: 1
+- of: 1
+- analyzed: 1
+- let's: 1
+- see: 1
+- how: 1
+- many: 1
+- characters: 1
+
+Word frequency graph saved as 'word_frequency.png'
