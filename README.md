@@ -95,7 +95,7 @@ A word frequency graph will be saved as `word_frequency.png` (Python only).
 
 ## File Structure
 
-```
+```bash
 text-analyzer/
 ├── src/                    # Source files
 │   ├── main.py             # Entry point of the Python script
@@ -135,5 +135,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Go for high-performance implementation.
 
 ```
-
-This README provides an overview of the project, installation instructions, usage, and project structure. It’s ready for a project repository on GitHub.
