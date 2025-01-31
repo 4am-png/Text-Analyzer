@@ -1,0 +1,4 @@
+# MANIFEST.in
+include README.md LICENSE
+recursive-include examples *
+recursive-include tests *

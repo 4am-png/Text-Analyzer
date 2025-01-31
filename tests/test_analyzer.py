@@ -2,11 +2,10 @@ import unittest
 from src.analyzer import analyze_text
 
 class TestTextAnalyzer(unittest.TestCase):
-
     def test_word_count(self):
         text = "This is a test."
         result = analyze_text(text)
-        self.assertEqual(result['word_count'], 5)
+        self.assertEqual(result['word_count'], 4)
 
     def test_sentence_count(self):
         text = "This is a test. Here's another sentence."
@@ -21,7 +20,7 @@ class TestTextAnalyzer(unittest.TestCase):
     def test_most_frequent_word(self):
         text = "apple apple banana"
         result = analyze_text(text)
-        self.assertEqual(result['word_frequency']['apple'], 2)
+        self.assertEqual(result['word_freq']['apple'], 2)
 
 if __name__ == '__main__':
     unittest.main()
